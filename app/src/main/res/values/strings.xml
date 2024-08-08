@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">asgn1</string>
+    <string name="tv_tip_amount">Tip</string>
+    <string name="tv_total_amount">Total</string>
+</resources>
